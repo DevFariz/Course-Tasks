@@ -1,0 +1,15 @@
+[
+    {"id": "1", "name": "Baby lotion", "price": "150", "quantity": "11"},
+    {"id": "2", "name": "Baby bottle", "price": "190", "quantity": "43"},
+    {"id": "3", "name": "Bassinet", "price": "120", "quantity": "54"},
+    {"id": "4", "name": "Bib", "price": "333", "quantity": "6"},
+    {"id": "5", "name": "Doll", "price": "354", "quantity": "56"},
+    {"id": "6", "name": "Rattle", "price": "220", "quantity": "123"},
+    {"id": "7", "name": "Diaper", "price": "500", "quantity": "18"},
+    {"id": "8", "name": "Mobile", "price": "54", "quantity": "53"},
+    {"id": "9", "name": "Puzzle", "price": "35", "quantity": "2"},
+    {"id": "10", "name": "Safety pin", "price": "110", "quantity": "6"}
+ ]
+
+ 
+
